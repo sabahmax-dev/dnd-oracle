@@ -14,7 +14,7 @@ D&D 5e SRD MCP server — monster search, spell lookup, encounter building, and 
 
 ## What It Does
 
-Search, browse, and analyze D&D 5e System Reference Document content — no internet required, no hallucination risk. All 20 tools operate on ground-truth SRD data bundled as a SQLite database.
+Search, browse, and analyze D&D 5e System Reference Document content — no internet required at runtime, no hallucination risk. All 20 tools operate on ground-truth SRD data bundled as a SQLite database.
 
 **1,207 entities**: 334 monsters, 319 spells, 237 equipment items, 239 magic items, 12 classes, 9 races, 15 conditions, 33 rule sections, 9 rollable tables.
 
